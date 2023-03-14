@@ -1,8 +1,6 @@
-# Getting Started with Create React App
+Title : Expense Tracker
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+Description : Using this application we can able to make out expense reports, it has Add, Remove & Balance viewing Option
 
 In the project directory, you can run:
 
